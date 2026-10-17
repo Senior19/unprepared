@@ -26,6 +26,13 @@ Everything lives inside `index.html`. Open it up to customize:
 
 ---
 
+## 👨‍💻 Made By
+
+**Ashish Kumar Jha**  
+*AI/ML Engineer*
+
+---
+
 ## 📄 License
 
 Distributed under the MIT License.
